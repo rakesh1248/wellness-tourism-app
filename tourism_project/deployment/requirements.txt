@@ -1,7 +1,7 @@
-
 pandas
 scikit-learn
 mlflow
 huggingface_hub
 datasets
 streamlit
+sklearn
